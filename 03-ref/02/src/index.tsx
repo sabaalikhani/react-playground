@@ -9,7 +9,7 @@ export default function CatFriends() {
 	const [index, setIndex] = useState(0);
 
 	return (
-		<div style={{ width: '70%' }}>
+		<div style={{ width: '50%' }}>
 			<nav>
 				<button
 					onClick={() => {
